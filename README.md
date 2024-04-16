@@ -10,3 +10,5 @@ Its purposes are:
 - Emergency network for the community
 - 
 ![Swissdigitalnet](https://user-images.githubusercontent.com/115565895/201952542-6e15ec99-daba-43a0-aa4b-5995f37797c2.JPG)
+
+Look for AREDN project on https://github.com/swissdigitalnet
